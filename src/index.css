@@ -1,0 +1,12 @@
+/* index.css */
+body {
+  background-color: #333; /* Set background color to black */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
